@@ -34,7 +34,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: grey;
   text-decoration: none;
 }
 
@@ -67,6 +67,15 @@
   font-size: 1.1rem;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.text {
+  background: #fafafa;
+  border-radius: 2px;
+  padding: 0.75rem;
+  font-size: 10px;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace, Lato;
 }
 
 .grid {

@@ -6,12 +6,20 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "ngrok": "ngrok http 3000"
   },
   "dependencies": {
-    "next": "11.0.1",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "framer-motion": "^4.1.17",
+    "jquery": "^3.6.0",
+    "next": "^11.1.0",
+    "popper.js": "^1.16.1",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-modal": "^3.14.3",
+    "react-multi-carousel": "^2.6.3",
+    "react-player": "^2.9.0"
   },
   "devDependencies": {
     "eslint": "7.30.0",
